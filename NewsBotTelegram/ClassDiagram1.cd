@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NewsBotTelegram.News" Collapsed="true">
+    <Position X="40.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Article.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Article" Collapsed="true">
+    <Position X="36.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAACAAAAAAAgAA=</HashCode>
+      <FileName>Article.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.BotSettings" Collapsed="true">
+    <Position X="38.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgAAAAAAAEBAAAAAAQwAAAEAAAAAAAAABAAEAAA=</HashCode>
+      <FileName>BotSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.DBSettings" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAABA=</HashCode>
+      <FileName>DBSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.FreedomName" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Freedoms\FreedomName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.FreedomSMS" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Freedoms\FreedomSMS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Program" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAgCMAAAAAAAAQAAAAAQAACAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Sourses" Collapsed="true">
+    <Position X="38.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Source.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Source" Collapsed="true">
+    <Position X="36.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Source.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.UserContextForDB" Collapsed="true">
+    <Position X="36.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserContextForDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.UserSettings" Collapsed="true">
+    <Position X="38.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIAAAAAAAAAIAABAQAAAIQAAAAAAAABgABCAQ=</HashCode>
+      <FileName>UserSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.BackDatas.BackData" Collapsed="true">
+    <Position X="31" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>BackDatas\BackData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.BackDatas.CategoryBackData" Collapsed="true">
+    <Position X="27.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>BackDatas\CategoryBackData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.BackDatas.CountryBackData" Collapsed="true">
+    <Position X="29.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackDatas\CountryBackData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.BackDatas.NewsInfoBackData" Collapsed="true">
+    <Position X="32" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAQAAAAAAAAAAAAgA=</HashCode>
+      <FileName>BackDatas\NewsInfoBackData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.BackDatas.SourceBackData" Collapsed="true">
+    <Position X="34.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAQAgAAAAAQAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>BackDatas\SourceBackData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Commands.AboutThingCommand" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\AboutThingCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Commands.CategoryCommand" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\CategoryCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Commands.Command" Collapsed="true">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Commands\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Commands.CountryCommand" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Commands\CountryCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Commands.NewsCommand" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAgAQAgAAAAAQAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Commands\NewsCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Commands.SourceCommand" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Commands\SourceCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Commands.StartCommand" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\StartCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Freedoms.FreedomFDate" Collapsed="true">
+    <Position X="25.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Freedoms\FreedomFDate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.Freedoms.FreedomTDate" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAQAgAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Freedoms\FreedomTDate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsBotTelegram.SendingByTime.SendAtNight" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>SendingByTime\SendAtNight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NewsBotTelegram.SendingByTime.SendInTheMorning" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>SendingByTime\SendInTheMorning.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NewsBotTelegram.SendingByTime.StartWorkingSend" Collapsed="true">
+    <Position X="40.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SendingByTime\StartWorkingSend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
